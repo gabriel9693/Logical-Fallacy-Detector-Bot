@@ -24,6 +24,7 @@
     "genai": "^0.0.18",
     "opus": "^0.0.0",
     "opusscript": "^0.0.8",
+    "sodium-native": "^5.1.0",
     "voice": "^0.0.0"
   }
 }
